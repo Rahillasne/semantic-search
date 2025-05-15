@@ -1,0 +1,1 @@
+python semantic_search_pipeline.py index data/opps.jsonl
